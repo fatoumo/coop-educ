@@ -1,0 +1,9 @@
+# Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+
+# vscode extensions
+.history
+.lh
+
+# If you want to keep irrelevant files in your folder
+private
