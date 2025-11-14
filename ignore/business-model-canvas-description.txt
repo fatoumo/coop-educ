@@ -1,0 +1,60 @@
+Business Model Canvas - IT Apprenticeship Program
+====================================================
+
+This Business Model Canvas illustrates a comprehensive apprenticeship program model designed for the IT sector, focusing on work-study arrangements (alternance).
+
+KEY COMPONENTS:
+
+1. Key Partners (Partenaires Clés)
+   - Training centers: CFA CESI/Simplon
+   - Funding organizations: OPCO 2i
+   - Regional government: Région Occitanie
+   - Employer companies
+
+2. Key Activities (Activités Clés)
+   - Matching apprentices with companies
+   - Tutor training programs
+   - Educational monitoring
+   - SaaS platform management
+
+3. Value Proposition (Proposition Valeur)
+   - Guaranteed first professional experience
+   - Zero cost for participants
+   - 3-month replacement guarantee
+   - Intensive support throughout the program
+
+4. Customer Relationships (Relation Client)
+   - Dedicated account managers
+   - Tutor hotline support
+   - Online dashboard access
+   - Community building
+
+5. Customer Segments (Segments Clients)
+   - Tech SMEs (10-50 employees)
+   - Series A startups
+   - Regional IT service companies
+   - Career changers entering IT
+
+6. Key Resources (Ressources Clés)
+   - 3-person core team
+   - Technology platform
+   - Enterprise network
+   - CFA certification
+
+7. Channels (Canaux)
+   - Direct B2B sales
+   - Training center partnerships
+   - Referral prescribers
+   - Tech events and networking
+
+8. Cost Structure (Structure Coûts)
+   - Apprentice salaries: 85%
+   - Operational structure: 10%
+   - Technology infrastructure: 5%
+
+9. Revenue Streams (Sources Revenus)
+   - Public funding and subsidies: 70%
+   - B2B services: 20%
+   - SaaS subscriptions: 10%
+
+This model leverages public funding to provide high-quality apprenticeship matching and support services while maintaining financial sustainability through diversified revenue streams.
